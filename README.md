@@ -9,7 +9,7 @@
 
 - ⚡ If you need fun visit me: **reddit.com/u/esberat**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/esberat/ </h3>
 <p align="left">
 </p>
 
