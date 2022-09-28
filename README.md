@@ -1,5 +1,5 @@
 <h1 align="center">Hello There! This is Berat </h1>
-<h3 align="center">A passionate Software Developer and Cyber Security Specialist from Turkey</h3>
+<h3 align="center">I am a cyborg working on DevOps / Software Development and Cyber ​​Security, producing memes when bored.</h3>
 
 # 💫 About Me:
 🔭 I'm currently working on DevOps Tools<br>🔭 I'm also working on the Cyber ​​Security topics I mentioned below:<br>       - DoS / DDos Attacks and Protection<br>       - Applied Penetration Test<br>       - Cyber ​​Incident Detection and Response<br>🤝 I’m looking for help with Web Development Projects & Web Application Firewall (WAF) with AI process<br>🌱 I’m currently learning Jenkins with CI/CD process<br>⚡ If you need fun visit me: reddit.com/u/esberat
