@@ -1,4 +1,4 @@
-<h1 align="center">Hello There! I'm Berat </h1>
+<h1 align="center">Hello There! This is Berat </h1>
 <h3 align="center">A passionate Software Developer and Cyber Security Specialist from Turkey</h3>
 
 # 💫 About Me:
