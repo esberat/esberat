@@ -1,7 +1,7 @@
 <h1 align="center">Hello There! This is Berat </h1>
 <h3 align="center">I am a cyborg working on DevOps / Software Development and Cyber ​​Security, producing memes when bored.</h3>
 <p align="center">
-  <img src="https://pbs.twimg.com/media/FdvSTm2WIAI7_qC?format=jpg&name=900x900" width="900" title="hover text">
+  <img src="https://pbs.twimg.com/media/FdvSTm2WIAI7_qC?format=jpg&name=900x900" width="700" title="Nasıl Çalışmaz Aq">
 </p>
 
 # 💫 About Me:
