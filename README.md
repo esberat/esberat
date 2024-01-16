@@ -5,7 +5,7 @@
 </p>
 
 # 💫 About Me:
-🔭 I'm currently working on DevOps Tools<br>🔭 I'm also working on the Cyber ​​Security topics I mentioned below:<br>       - DoS / DDos Attacks and Protection<br>       - Applied Penetration Test<br>       - Cyber ​​Incident Detection and Response<br>🤝 I’m looking for help with Web Development Projects & Web Application Firewall (WAF) with AI process<br>🌱 I’m currently learning Jenkins with CI/CD process<br>⚡ If you need fun visit me: reddit.com/u/esberat
+🔭 I'm currently working on Developer Tools at Google Game & Application Academy <br>🔭 I'm also working on the Cyber ​​Security topics I mentioned below:<br>       - DoS / DDos Attacks and Protection<br>       - Applied Penetration Test<br>       - Cyber ​​Incident Detection and Response<br>🤝 I’m looking for help with Web Development Projects & Web Application Firewall (WAF) with AI process<br>🌱 I’m currently learning Jenkins with CI/CD process<br>
 
 
 ## 🌐 Socials:
